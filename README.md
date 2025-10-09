@@ -48,7 +48,7 @@ Served as **Editing Supervisor** for **Say you do MV Remake Project**
 <h3><b>Personal Photography Project</b></h3>
 
 <p align="center">
-  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Montage%20photo%20minimaliste%20blanc%20et%20vert.png" width="49%">
+  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Beige%20Minimalist%20Collage%20Instagram%20Post.png" width="49%">
   <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Minimalist%20Pancake%20Day%20Mood%20Photo%20Collage.png" width="49%">
 </p>
 ---
