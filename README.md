@@ -45,13 +45,12 @@ Served as **Editing Supervisor** for **Say you do MV Remake Project**
 <p align="center">
   <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/mv%20say%20you%20do%20remake%20nhom%206-Cover.jpg" width="100%">
 </p>
-**Personal Photography Project**
-<p align="left">
-  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Montage%20photo%20minimaliste%20blanc%20et%20vert.png" width="50%">
-<p align="right">
-  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Minimalist%20Pancake%20Day%20Mood%20Photo%20Collage.png" width="50%">
-</p>
+<h3><b>Personal Photography Project</b></h3>
 
+<p align="center">
+  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Montage%20photo%20minimaliste%20blanc%20et%20vert.png" width="49%">
+  <img src="https://github.com/n23dcpt042-cell/n23dcpt042-cell/blob/main/Minimalist%20Pancake%20Day%20Mood%20Photo%20Collage.png" width="49%">
+</p>
 ---
 
 ### 🎯 Mục tiêu nghề nghiệp
