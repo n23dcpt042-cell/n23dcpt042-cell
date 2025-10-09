@@ -40,6 +40,14 @@ Xin chào, mình là **Ro Phi Ni** – sinh viên **Công nghệ đa phương ti
 </p>
 
 ---
+### 🧭 Dự án cá nhân
+<p align="center">
+  <img src="https://i.pinimg.com/736x/86/d4/ed/86d4ed46001da30c4bdefd4182f06099.jpg" width="100%">
+</p>
+
+
+
+---
 
 ### 🎯 Mục tiêu nghề nghiệp
 
